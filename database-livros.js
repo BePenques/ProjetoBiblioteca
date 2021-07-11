@@ -6,8 +6,8 @@ const livros = [
         categoria_id: 1,
         categoria: "Produtividade",
         paginas: 254,
-        // recomenda: false,
-        // leu: false
+        recomenda: false,
+        leu: false
     },
     {
         id: 2,
@@ -16,8 +16,8 @@ const livros = [
         categoria_id: 2,
         categoria: "História Brasileira",
         paginas: 230,
-        // recomenda: false,
-        // leu: false
+        recomenda: false,
+        leu: false
     },
     {
         id: 3,
@@ -26,8 +26,8 @@ const livros = [
         categoria_id: 2,
         categoria: "História Brasileira",
         paginas: 400,
-        // recomenda: false,
-        // leu: false
+        recomenda: false,
+        leu: false
     },
     {
         id: 4,
@@ -36,8 +36,8 @@ const livros = [
         categoria_id: 3,
         categoria: "Finanças",
         paginas: 176,
-        // recomenda: false,
-        // leu: false
+        recomenda: false,
+        leu: false
     },
     {
         id: 5,
@@ -46,8 +46,8 @@ const livros = [
         categoria_id: 4,
         categoria: "Livros Infantis",
         paginas: 176,
-        // recomenda: true,
-        // leu: true
+        recomenda: true,
+        leu: true
     },
     {
         id: 6,
@@ -56,8 +56,8 @@ const livros = [
         categoria_id: 5,
         categoria: "Tecnologia",
         paginas: 231,
-        // recomenda: true,
-        // leu: true
+        recomenda: true,
+        leu: true
     },
     {
         id: 7,
@@ -66,8 +66,8 @@ const livros = [
         categoria_id: 5,
         categoria: "Tecnologia",
         paginas: 412,
-        // recomenda: true,
-        // leu: true
+        recomenda: true,
+        leu: true
     },
     {
         id: 9,
@@ -76,8 +76,8 @@ const livros = [
         categoria_id: 5,
         categoria: "Tecnologia",
         paginas: 408,
-        // recomenda: true,
-        // leu: true
+        recomenda: true,
+        leu: true
     },
 
 ]
